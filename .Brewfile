@@ -23,7 +23,6 @@ cask "ftdi-vcp-driver"
 cask "onyx"
 cask "qfinder-pro"
 cask "visual-studio-code"
-cask "zoomus"
 mas "1Password 7", id: 1333542190
 mas "Cardhop", id: 1290358394
 mas "Day One", id: 1055511498
