@@ -15,3 +15,8 @@ for file in ${DOT_FILES[@]}
 do
 	ln -s $HOME/dotfiles/$file $HOME/$file
 done
+
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+
+
