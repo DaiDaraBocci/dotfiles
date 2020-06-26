@@ -1,6 +1,6 @@
 # 使い方
 
-`sh:setup.sh
+`
 sh ~/dotfiles/setup.sh
 `
 
