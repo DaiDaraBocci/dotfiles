@@ -7,8 +7,11 @@ Plug 'plasticboy/vim-markdown'
 Plug 'previm/previm'
 call plug#end()
 
+"Vim Markdown
 filetype plugin indent on
+let g:vim_markdown_folding_disabled = 1
 
+"Previm
 let g:previm_open_cmd = 'open -a Safari'
 augroup PrevimSettings
     autocmd!
