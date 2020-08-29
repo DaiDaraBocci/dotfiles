@@ -30,6 +30,7 @@ mas "Cardhop", id: 1290358394
 mas "Day One", id: 1055511498
 mas "Evernote", id: 406056744
 mas "Fantastical", id: 975937182
+mas "Final Cut Pro", id: 424389933
 mas "LINE", id: 539883307
 mas "MindNode", id: 1289197285
 mas "Norton Safe Web", id: 1474741727
