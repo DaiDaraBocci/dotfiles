@@ -35,3 +35,5 @@ mas "Norton Safe Web", id: 1474741727
 mas "PCalc", id: 403504866
 mas "Things", id: 904280696
 mas "Xcode", id: 497799835
+mas "Motion", id:434290957
+mas "Compressor", id:424390742
